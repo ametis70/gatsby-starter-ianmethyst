@@ -20,7 +20,7 @@ module.exports = {
     },
     'gatsby-plugin-typescript',
     'gatsby-plugin-emotion',
-    'gatsby-plugin-svgr',
+    'gatsby-plugin-svgr-svgo',
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',

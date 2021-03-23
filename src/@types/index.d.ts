@@ -5,17 +5,6 @@ declare module '*.svg' {
   export default src
 }
 
-declare module '*.jpg' {
-  const jpgContent: string
-  export { jpgContent }
-}
-
-declare module '*.png' {
-  const pngContent: string
-  export { pngContent }
-}
-
-declare module '*.json' {
-  const jsonContent: string
-  export { jsonContent }
-}
+declare module '*.jpg'
+declare module '*.png'
+declare module '*.json'
