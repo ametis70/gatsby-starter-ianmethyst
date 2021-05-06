@@ -19,7 +19,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-typescript',
-    'gatsby-plugin-emotion',
     'gatsby-plugin-svgr-svgo',
     'gatsby-plugin-react-helmet',
     {
